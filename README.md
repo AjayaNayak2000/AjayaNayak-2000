@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on **Track Back**
 
+- 🔭 I’m currently learning **everything**
+
 - 🌱 I’m currently learning **Spring,Hibernate**
 
 - 💬 Ask me about **Web development,Java**
 
 - 📫 How to reach me **nayakajay7561@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **i love to draw and play guitar**
 
 <h3 align="left">Connect with me:</h3>
 
